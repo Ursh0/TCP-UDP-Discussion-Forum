@@ -4,6 +4,8 @@ A command-line discussion forum built using a custom client--server
 protocol. Users can authenticate, create threads, post/edit/delete
 messages, and upload/download files over the network.
 
+Private Repository - Contact me for access
+
 ## Overview
 
 -   Client--server architecture\
